@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Dakin Andone, Elizabeth Wolfe, Jean Casarez",
+            "title": "Suspect in the Idaho college student killings plans to waive extradition hearing, attorney says - CNN",
+            "description": "The suspect in the killings of four University of Idaho college students plans to waive his extradition hearing this week, his attorney said, to expedite his return to the Gem State, where he faces four counts of first-degree murder.",
+            "url": "https://www.cnn.com/2023/01/01/us/bryan-kohberger-university-of-idaho-killings-suspect-sunday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221208141546-this-idaho-victims-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-01T15:41:00Z",
+            "content": "The suspect in the killings of four University of Idaho college students plans to waive his extradition hearing this week, his attorney said, to expedite his return to the Gem State, where he faces f… [+4561 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Gaydos",
+            "title": "Georgia's Kirby Smart issues blunt challenge to Stetson Bennett after thrilling win: 'He must play better' - Fox News",
+            "description": "Georgia coach Kirby Smart wasn't pleased with Stetson Bennett's quarterbacking in their comeback win over Ohio State on Saturday night.",
+            "url": "https://www.foxnews.com/sports/georgias-kirby-smart-issues-blunt-challenge-stetson-bennett-after-thrilling-win-must-play-better",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Kirby-Smart.jpg",
+            "publishedAt": "2023-01-01T15:19:17Z",
+            "content": "Georgia skirted by Ohio State in the College Football Playoff semifinal on Saturday night thanks to a missed field goal from the Buckeyes at the end of the game.\r\nStetson Bennett had two touchdown pa… [+2003 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Kevin Shalvey, Peter Charalambous, Aaron Katersky, Bill Hutchinson",
+            "title": "3 police officers near Times Square injured in machete attack on New Year's Eve: Officials - ABC News",
+            "description": "\"All three of the officers are in stable conditions,\" Mayor Eric Adams said.",
+            "url": "https://abcnews.go.com/US/3-police-officers-injured-machete-attack-times-square/story?id=96036991",
+            "urlToImage": "https://s.abcnews.com/images/US/nypd-nye-_hpMain_20230101-020331_16x9_992.jpg",
+            "publishedAt": "2023-01-01T15:11:15Z",
+            "content": "An \"unprovoked\" machete attack on three New York City police officers near Times Square on New Year's Eve is being investigated as a possible terrorist incident. The suspect is allegedly a 19-year-ol… [+5424 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Holly Yan",
+            "title": "Modest Mouse drummer Jeremiah Green dead at 45 - CNN",
+            "description": "Just days after his cancer diagnosis was publicly announced, Jeremiah Green -- the drummer for the rock band Modest Mouse -- has died, according to statements from his mother and bandmates.",
+            "url": "https://www.cnn.com/2023/01/01/entertainment/jeremiah-green-obit-trnd/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230101074732-01-jeremiah-green-120421.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-01T14:54:00Z",
+            "content": "Just days after his cancer diagnosis was publicly announced, Jeremiah Green the drummer for the rock band Modest Mouse has died, according to statements from his mother and bandmates. \r\nHe was 45 yea… [+1504 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Khaleda Rahman",
+            "title": "Joe Biden Outlines Why He Thinks 2023 Will Be a 'Great Year' - Newsweek",
+            "description": "One thing the president highlighted was that a monthly cap on the cost of insulin for diabetic patients on Medicare takes effect on January 1.",
+            "url": "https://www.newsweek.com/joe-biden-why-2023-will-great-year-1770613",
+            "urlToImage": "https://d.newsweek.com/en/full/2172511/us-president-joe-biden-departs-following-dinner.jpg",
+            "publishedAt": "2023-01-01T14:48:49Z",
+            "content": "President Joe Biden on Sunday outlined on Twitter why he thinks 2023 is going to a be a great year for Americans.\r\n\"Happy New Year, folks,\" the president tweeted as the clock struck midnight on New Y… [+3499 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Colleagues remember Barbara Walters - CBS Sunday Morning",
+            "description": "Barbara Walters, the longtime NBC and ABC journalist who became the first woman to anchor a network TV evening news broadcast, died Friday at age 93. Three f...",
+            "url": "https://www.youtube.com/watch?v=uOl5ZPVUFFA",
+            "urlToImage": "https://i.ytimg.com/vi/uOl5ZPVUFFA/maxresdefault.jpg",
+            "publishedAt": "2023-01-01T14:35:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Defiant Ukrainians cheer 2023 as drones are blasted from the skies - Reuters",
+            "description": "Ukrainians cheered from their balconies while their air defences blasted Russian missiles and drones out of the sky in the first hours of 2023, as Moscow saw in the new year by attacking civilian targets across Ukraine.",
+            "url": "https://www.reuters.com/world/europe/defiant-ukrainians-cheer-new-year-drones-blasted-skies-2023-01-01/",
+            "urlToImage": "https://www.reuters.com/resizer/_TBzsOgff8imJgw8WxlTM0YJSls=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/56GDPC4Q5NNEJGHCPWYBCQ7VE4.jpg",
+            "publishedAt": "2023-01-01T14:01:00Z",
+            "content": "KYIV/DONETSK PROVINCE FRONT LINE, Ukraine, Jan 1 (Reuters) - Ukrainians cheered from their balconies while their air defences blasted Russian missiles and drones out of the sky in the first hours of … [+6263 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NCAA.com"
+            },
+            "author": "NCAA.com",
+            "title": "No. 3 TCU knocks off No. 2 Michigan in 2022 Fiesta Bowl and all-time classic CFP semifinal - NCAA.com",
+            "description": "In the College Football Playoff semifinal, No. 2 Michigan faces No. 3 TCU in the Fiesta Bowl Dec. 31. Here's everything you need to know.",
+            "url": "https://www.ncaa.com/live-updates/football/fbs/no-3-tcu-knocks-no-2-michigan-2022-fiesta-bowl-and-all-time-classic-cfp-semifinal",
+            "urlToImage": "https://www.ncaa.com/_flysystem/public-s3/images/2022-12/GettyImages-1453520863.jpg",
+            "publishedAt": "2023-01-01T14:00:26Z",
+            "content": "Michigan's Jake Moody nails a 59-yard field goal to close out the first half and pull the Wolverines within 21-6. Moody missed his first attempt, but TCU called timeout to try to ice him. \r\nHorned Fr… [+588 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Delia Gallagher, Niamh Kennedy, Emma Tucker",
+            "title": "Former Pope Benedict XVI asks for forgiveness, thanks God in final published letter - CNN",
+            "description": "Former Pope Benedict XVI, who died Saturday in a monastery in the Vatican at the age of 95, asked for forgiveness for those he has \"wronged\" in the spiritual testament published following his death.",
+            "url": "https://www.cnn.com/2022/12/31/world/pope-benedict-death-final-letter/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221231171343-benedict-0213-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-01T13:41:00Z",
+            "content": "Former Pope Benedict XVI, who died Saturday in a monastery in the Vatican at the age of 95, asked for forgiveness for those he has wronged in the spiritual testament published following his death.\r\nB… [+2720 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Prisco's Week 17 NFL picks: Pats top Dolphins, Bills edge Bengals on 'MNF,' Packers keep playoff hopes alive - CBS Sports",
+            "description": "Pete Prisco reveals all his Week 17 picks, including the Giants clinching their first playoff berth since 2016",
+            "url": "https://www.cbssports.com/nfl/news/priscos-week-17-nfl-picks-pats-top-dolphins-bills-edge-bengals-on-mnf-packers-keep-playoff-hopes-alive/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/28/0a569759-7abc-46ba-9b58-6d04ed9033bc/thumbnail/1200x675/4894fd330c8f1dddc0239115e72315ff/bills.jpg",
+            "publishedAt": "2023-01-01T13:36:00Z",
+            "content": "It finally happened. It took me 16 weeks, but I finally hit my triple crown of picking.\r\nI hit big with my ATS selections as part of my CBSSports.com Expert Picks, as well as my straight-up picks and… [+6287 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Matt Hanson, Becky Scarrott, Lance Ulanoff, Tom Power, Christian Guyton, Julian Benson, Mark Wilson, Al Griffin, Matt Evans",
+            "title": "TechRadar's year in review: 2022 in phones, TVs, computing and more - TechRadar",
+            "description": "Our highs and lows of an unforgettable year in tech",
+            "url": "https://www.techradar.com/news/techradars-year-in-review-2022-in-phones-tvs-computing-and-more",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/AXjwRB3dUGNg2UejooazAJ-1200-80.jpg",
+            "publishedAt": "2023-01-01T13:00:16Z",
+            "content": "Goodbye, 2022 - and hello to the shiny new world of 2023! Granted, it doesn't look much different yet, but then we are only a few hours into the new year. \r\nSo, what were our tech highlights of the p… [+19569 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Stacy Liberatore",
+            "title": "NASA's epic space images from the James Webb, Juno and Perseverance in 2022 - Daily Mail",
+            "description": "NASA had an epic year in astronomy with never-before-seen cosmic wonders of star-forming regions, cyclones on Jupiter and giant sand dunes carved out by winds on Mars.",
+            "url": "https://www.dailymail.co.uk/sciencetech/article-11555939/NASAs-epic-space-images-James-Webb-Juno-Perseverance-2022.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/12/20/22/65791031-0-image-a-58_1671575721538.jpg",
+            "publishedAt": "2023-01-01T12:31:33Z",
+            "content": "This year was the dawn of a new era in astronomy. \r\nThe world was captivated by stunning images of stars birthing from fiery clouds, violent storms flowing throughout Jupiter and iridescent sands swi… [+4941 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Catholicnewsagency.com"
+            },
+            "author": "Hannah Brockhaus",
+            "title": "Vatican shares first photos of Benedict XVI after death - Catholic News Agency",
+            "description": "The photos were taken at the Mater Ecclesiae Monastery, where the pope emeritus spent his retirement years and where he died on Dec. 31.",
+            "url": "https://www.catholicnewsagency.com/news/253207/vatican-releases-photos-of-benedict-xvis-body",
+            "urlToImage": "https://www.catholicnewsagency.com/storage/image/benedict-body-2.jpeg?jpg",
+            "publishedAt": "2023-01-01T12:28:00Z",
+            "content": "The photos, the first of the deceased Benedict to be released, were taken on the morning of Jan. 1.\r\nBenedict XVI will lie in state in St. Peters Basilica from Jan. 2-4. His funeral Mass will take pl… [+424 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Deadly crush during New Year festivities in Uganda - BBC",
+            "description": "A number of children are among the victims of the crowd surge at a shopping centre, police say.",
+            "url": "https://www.bbc.com/news/world-africa-64138857",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3793/production/_128172241_de34.jpg",
+            "publishedAt": "2023-01-01T12:25:28Z",
+            "content": "At least nine people have died in a crowd crush during New Year festivities in the Ugandan capital Kampala.\r\nA number of children were killed in the incident, which unfolded at a shopping centre that… [+930 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Kim Jong Un orders new ICBM, bigger nuclear arsenal - Reuters",
+            "description": "North Korean leader Kim Jong Un called for developing new intercontinental ballistic missiles and a larger nuclear arsenal to counter U.S.-led threats, state media said on Sunday, amid flaring tension between the rival Koreas.",
+            "url": "https://www.reuters.com/world/asia-pacific/north-korea-fires-missile-new-years-day-yonhap-2022-12-31/",
+            "urlToImage": "https://www.reuters.com/resizer/H6_QkOXrKjBcHsk0Scy2JBZ4Rec=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OQC3TU4OJFNADKVPY5E2A42HBQ.jpg",
+            "publishedAt": "2023-01-01T12:24:00Z",
+            "content": "SEOUL, Jan 1 (Reuters) - North Korean leader Kim Jong Un called for developing new intercontinental ballistic missiles and a larger nuclear arsenal to counter U.S.-led threats, state media said on Su… [+4811 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "247Sports"
+            },
+            "author": "Brad Crawford",
+            "title": "Georgia football's no-targeting call on Ohio State WR Marvin Harrison Jr. hit generates CFB Playoff reaction - 247Sports",
+            "description": "...",
+            "url": "https://247sports.com/LongFormArticle/Georgia-footballs-no-targeting-call-on-Ohio-State-WR-Marvin-Harrison-Jr-hit-generates-CFB-Playoff-reaction-201852545/",
+            "urlToImage": "https://s3media.247sports.com/Uploads/Assets/649/545/11545649.png?fit=bounds&crop=1200:630,offset-y0.50&width=1200&height=630",
+            "publishedAt": "2023-01-01T12:23:53Z",
+            "content": "A targeting penalty against Georgia late in the fourth quarter of Saturday night's 42-41 win over Ohio State in the College Football Playoff was picked up after officials ruled Javon Bullard's hit ag… [+939 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Elizabeth Pritchett",
+            "title": "New Year's Eve shooting in south Alabama leaves 1 dead, 9 injured - Fox News",
+            "description": "A shooting in downtown Mobile, Alabama on New Year's Eve left at least one person dead and nine others injured as thousands flocked to the city for the annual MoonPie Over Mobile event.",
+            "url": "https://www.foxnews.com/us/new-years-eve-shooting-south-alabama-leaves-1-dead-9-injured",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Mobile-shooting-1.jpg",
+            "publishedAt": "2023-01-01T10:54:49Z",
+            "content": "A shooting in downtown Mobile, Ala. left at least one person dead and nine others injured on New Year's Eve.\r\nThe Mobile Police Department said officers responded to shots fired in the 200 block of D… [+2188 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Moscow Times"
+            },
+            "author": "Robbie Corey-Boulet for AFP",
+            "title": "Kyiv Rocked By Explosions Amid Russia's New Year Attacks - The Moscow Times",
+            "description": "A fresh round of explosions rocked Kyiv less than an hour into 2023, after Russia had attacked Ukraine with missiles targeting the capital and other cities ahead of New Year's Eve celebrations.  The first blasts of the new year began roughly 30 minutes after …",
+            "url": "https://www.themoscowtimes.com/2023/01/01/kyiv-rocked-by-explosions-amid-russias-new-year-attacks-a79860",
+            "urlToImage": "https://static.themoscowtimes.com/image/og/fd/79860__fd4f2f8ede5aec40ad48fb8392c2e28f.jpg",
+            "publishedAt": "2023-01-01T09:21:39Z",
+            "content": "A fresh round of explosions rocked Kyiv less than an hour into 2023, after Russia had attacked Ukraine with missiles targeting the capital and other cities ahead of New Year's Eve celebrations. \r\nThe… [+4866 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Blast outside Kabul's military airport, multiple casualties, interior ministry says - Reuters",
+            "description": "An explosion outside the military airport in Kabul on Sunday has caused multiple casualties, a spokesman for the Taliban-run interior ministry said.",
+            "url": "https://www.reuters.com/world/asia-pacific/blast-outside-kabuls-military-airport-multiple-casualties-feared-interior-2023-01-01/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=124",
+            "publishedAt": "2023-01-01T06:56:15Z",
+            "content": "KABUL, Jan 1 (Reuters) - An explosion outside the military airport in Kabul on Sunday has caused multiple casualties, a spokesman for the Taliban-run interior ministry said.\r\n\"Today morning an explos… [+941 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBC Chicago"
+            },
+            "author": "Staff Report and The AP",
+            "title": "Illinois Supreme Court Blocks End of Cash Bail on Jan. 1 as State Appeals Judge's Ruling - NBC Chicago",
+            "description": "Just hours before cash bail was set to be eliminated across parts of Illinois, the state's Supreme Court stopped it from taking effect as the high court…",
+            "url": "https://www.nbcchicago.com/news/local/chicago-politics/illinois-supreme-court-blocks-end-of-cash-bail-on-jan-1-as-state-appeals-judges-ruling/3034171/",
+            "urlToImage": "https://media.nbcchicago.com/2019/09/GettyImages-129310646.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2023-01-01T05:24:56Z",
+            "content": "Just hours before cash bail was set to be eliminated across parts of Illinois, the state's Supreme Court stopped it from taking effect as the high court prepares to debate whether or not the pretrial… [+2522 chars]"
+        }
+    ]
+}
